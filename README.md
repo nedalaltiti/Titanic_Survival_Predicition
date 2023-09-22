@@ -1,6 +1,6 @@
 # survivetitanic-be
 
-we use the titanic dataset to predict the survival of the titanic passengers
+used the titanic dataset to predict the survival of the titanic passengers
 
 using xgboost with the following parameters
 
@@ -15,7 +15,7 @@ using xgboost with the following parameters
   objective='binary:logistic'
 ```
 
-we get the following results
+got the following results
 
 ```python
     Train Accuracy:  0.8309572301425662
